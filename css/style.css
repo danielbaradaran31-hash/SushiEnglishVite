@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=playfair+Display:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800;&display=swap");
+
+
+
+/* @import url("section/header.css"); */
+/* @import url("section/hero.css");
+@import url("section/footer.css");
+@import url("section/about.css");
+@import url("section/popular.css");
+@import url("section/subscribe.css");
+@import url("section/ternding.css"); */
+
+
+
+:root{
+    --playfair-display: "playfair Display",
+    serif;
+    --plus-jakarta-sans: "Plus Jakarta Sans",
+    sans-serif;
+
+   
+
+
+    --primary-color: #b1454a;
+    --secondary-color: #121212;
+
+
+
+    --black-200: #020202;
+    --black-300:#333333;
+    --black-400: #1f1e31;
+    --black-500: #555555;
+    --gray-100: #888888;
+
+    --color-white: #fff;
+    --color-creamson: #fff0de;
+    
+}
