@@ -55,12 +55,17 @@ Asset-Imports wurden vollständig für Build-Systeme konfiguriert.
 ## 📁 Projektstruktur
 
 ├── index.html
+
 ├── css/
+
 │   ├── style.css
 │   └── sections/
+
 ├── js/
+
 │   ├── script.js
 │   └── (AOS-Initialisierung + dynamische Daten)
+
 ├── assets/
 │   └── images + icons
 
