@@ -83,7 +83,7 @@ Asset-Imports wurden vollständig für Build-Systeme konfiguriert.
 
 ---
 
-## 🎯 Ziel des Projekts
+### 🎯 Ziel des Projekts
 
 Dieses Projekt zeigt:
 - Fähigkeiten im modernen UI-Design  
