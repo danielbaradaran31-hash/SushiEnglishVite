@@ -96,7 +96,7 @@ Es eignet sich ideal für Portfolio, Bewerbungen, Lernzwecke oder reale kommerzi
 
 ---
 
-## 📬 Installation & Ausführung
+### 📬 Installation & Ausführung
 
 ```bash
 # Repository klonen
