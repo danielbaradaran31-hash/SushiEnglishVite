@@ -72,7 +72,7 @@ Asset-Imports wurden vollständig für Build-Systeme konfiguriert.
 
 ---
 
-## 🛠️ Verwendete Technologien
+### 🛠️ Verwendete Technologien
 
 - HTML5 – semantische, saubere Struktur  
 - CSS3 – responsive, modular, variablenbasiert  
