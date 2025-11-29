@@ -52,7 +52,7 @@ Asset-Imports wurden vollständig für Build-Systeme konfiguriert.
 
 ---
 
-## 📁 Projektstruktur
+### 📁 Projektstruktur
 
 ├── index.html
 
