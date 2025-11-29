@@ -96,12 +96,6 @@ Es eignet sich ideal für Portfolio, Bewerbungen, Lernzwecke oder reale kommerzi
 
 ---
 
-## 📸 Vorschau
-
-> (Wenn du möchtest, kann ich dir ein professionelles Vorschaubild oder GIF dafür erstellen.)
-
----
-
 ## 📬 Installation & Ausführung
 
 ```bash
