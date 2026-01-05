@@ -1,7 +1,7 @@
 <img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2f63f20-c8cd-4051-9d4b-4412939aad3a" />
 
 
-## Sushi Kushi – Moderne japanische Landingpage
+# Sushi Kushi – Moderne japanische Landingpage
 
 Dieses Projekt ist eine moderne, responsive und animierte Landingpage für die fiktive japanische Food-Brand Sushiman.  
 Ein minimalistisches Design, eine klare Benutzerführung und sanfte Animationen machen dieses Projekt zu einem professionellen Beispiel für moderne Frontend-Entwicklung.
